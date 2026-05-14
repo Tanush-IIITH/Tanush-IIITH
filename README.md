@@ -20,11 +20,11 @@ Systems • Machine Learning • Distributed Systems • Competitive Programming
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="blank">
+<a href="https://www.linkedin.com/in/tanush-garg-037122320/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:tanushgarg18@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
