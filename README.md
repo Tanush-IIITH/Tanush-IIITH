@@ -107,7 +107,7 @@ Systems • Machine Learning • Distributed Systems • Competitive Programming
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tanush-IIITH&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanush-IIITH&theme=tokyonight&hide_border=true" height="180em"/>
+<img src="https://streak-stats.demolab.com?user=Tanush-IIITH&theme=tokyonight&hide_border=true" height="180em"/>
 
 </p>
 
