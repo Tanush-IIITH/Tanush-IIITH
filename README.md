@@ -1,152 +1,125 @@
-<h1 align="center">Hi 👋, I'm Tanush Garg</h1>
+<div align="center">
+  <h1>Hi 👋, I'm Tanush</h1>
+  <h3>
+    Computer Science & Engineering Student @ IIIT Hyderabad <br><br>
+    Systems Architecture • Distributed Computing • Machine Learning • Competitive Programming
+  </h3>
+</div>
 
-<h3 align="center">
-Computer Science Student @ IIIT Hyderabad <br>
-Systems • Machine Learning • Distributed Systems • Competitive Programming
-</h3>
+<br/>
 
----
+## 💫 About Me
 
-# 💫 About Me
+- 🎓 **Academics:** B.Tech in Computer Science and Engineering at IIIT Hyderabad.
+- 💻 **Problem Solving:** Competitive Programmer (Specialist on Codeforces, 3-Star on CodeChef).
+- ⚙️ **Core Interests:** Low-Level Systems, Networking, and Distributed Computing.
+- 🚀 **Development:** Building scalable backend architectures and AI-driven applications.
+- 🧠 **Currently Exploring:** Operating Systems internals, RAG Pipelines, and Concurrent Architectures.
 
-- 🎓 B.Tech CSE @ IIIT Hyderabad
-- 💻 Competitive Programmer (Codeforces + CodeChef)
-- ⚙️ Interested in Systems, Networking, Distributed Computing & ML
-- 🚀 Building scalable backend systems and AI-driven applications
-- 🧠 Exploring Operating Systems, RAG Pipelines, and Concurrent Architectures
+<br/>
 
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/tanush-garg-037122320/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="mailto:tanushgarg18@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-
-<a href="https://github.com/Tanush-IIITH">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+  <a href="https://www.linkedin.com/in/tanush-garg-037122320/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tanushgarg18@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
+  </a>
+  <a href="https://github.com/Tanush-IIITH">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  </a>
 </p>
 
----
+<br/>
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,sql" />
-</p>
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,sql" alt="Languages" />
 
-## Backend / Systems
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,linux,docker" />
-</p>
+**Backend & Systems**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,linux,docker" alt="Backend and Systems" />
 
-## Databases & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase" />
-</p>
+**Databases & Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase" alt="Databases and Cloud" />
 
-## ML / AI
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
+**Machine Learning & AI**<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="Machine Learning" />
 
-## Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bash" />
-</p>
+**Tools & Environment**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash" alt="Tools" />
 
----
+<br/>
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🧠 Gen-AI Driven Wellbeing Coach & Health Platform
-- Built a dual-sided healthcare intelligence platform integrating wearable vitals and PDF medical reports
-- Engineered advanced RAG pipelines using Supabase pgvector + FAISS fallback
-- Developed longitudinal biomarker tracking using SQL window functions
-- Created automated LLM-based patient & doctor summary generation pipelines
+### Gen-AI Driven Wellbeing Coach & Health Platform
+* Built a dual-sided healthcare intelligence platform integrating wearable vitals and PDF medical reports.
+* Engineered an advanced RAG pipeline for a Personal Health Assistant in collaboration with SuryaQuantum AI, utilizing Supabase pgvector and FAISS fallbacks.
+* Developed longitudinal biomarker tracking using SQL window functions and created automated LLM-based summary generation pipelines for patients and doctors.
 
----
+### Distributed Document Collaboration System
+* Built a distributed client-server-storage architecture supporting concurrent multi-user document editing.
+* Implemented sentence-level locking, metadata indexing, caching, and distributed COPY operations.
+* Architected direct storage-server communication protocols to ensure efficient cross-server file transfers.
 
-## 🌐 Distributed Document Collaboration System
-- Built a distributed client-server-storage architecture supporting concurrent multi-user editing
-- Implemented sentence-level locking, metadata indexing, caching, and distributed COPY operations
-- Added direct storage-server communication for efficient cross-server file transfer
+### Personalized Posture Detection System
+* Developed a real-time posture classification system utilizing YOLOv11 keypoints and LightGBM.
+* Engineered personalized calibration models and biomechanical angle analysis pipelines.
+* Achieved ~98% classification accuracy across 8 distinct posture categories.
 
----
+### Reliable UDP Protocol (RUDP)
+* Recreated TCP-like reliability mechanisms over a UDP foundation using C.
+* Implemented sliding window protocols, retransmissions, flow control, cumulative ACKs, and a robust handshake sequence.
+* Integrated packet-loss simulation and MD5 validation for comprehensive integrity testing.
 
-## 🧍 Personalized Posture Detection System
-- Developed real-time posture classification using YOLOv11 keypoints and LightGBM
-- Engineered personalized calibration and biomechanical angle analysis pipelines
-- Achieved ~98% classification accuracy across 8 posture categories
+### POSIX-Compliant Unix Shell
+* Engineered a modular Unix shell in C supporting process management, piping, parsing, and execution environments.
+* Replicated core Bash/Zsh-like functionality utilizing fundamental system calls and operating system concepts.
 
----
+<br/>
 
-## ⚡ Reliable UDP Protocol (RUDP)
-- Recreated TCP-like reliability mechanisms over UDP using C
-- Implemented sliding windows, retransmissions, flow control, cumulative ACKs, and handshake protocols
-- Added packet-loss simulation and MD5 validation
+## 🏆 Competitive Programming
 
----
+- 📌 **Active Contender:** Regular participant in Codeforces and CodeChef contests.
+- 📌 **Core Strengths:** Strong foundation in Data Structures, Algorithms, Graph Theory, Dynamic Programming, and Number Theory.
+- 📌 **Focus:** Highly interested in algorithmic optimization and applying CP logic to low-level systems programming.
 
-## 🐚 POSIX-Compliant Unix Shell
-- Built a modular Unix shell in C supporting process management, piping, parsing, and execution
-- Designed core Bash/Zsh-like functionality using system calls and OS concepts
+<br/>
 
----
+## 📊 GitHub Analytics
 
-# 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanush-IIITH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Tanush-IIITH&theme=tokyonight&hide_border=true" height="180em" alt="GitHub Streak"/>
+</div>
 
-<p align="center">
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tanush-IIITH&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+## 📈 Language Distribution
 
-<img src="https://streak-stats.demolab.com?user=Tanush-IIITH&theme=tokyonight&hide_border=true" height="180em"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanush-IIITH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
 
-</p>
+<br/>
 
----
+## 🐍 Contribution Graph
 
-# 📈 Most Used Languages
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanush-IIITH/Tanush-IIITH/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanush-IIITH/Tanush-IIITH/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tanush-IIITH/Tanush-IIITH/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanush-IIITH&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 Competitive Programming
-
-- 📌 Regular Codeforces & CodeChef contestant
-- 📌 Strong foundation in DSA, Graphs, DP, Number Theory & Systems Programming
-- 📌 Interested in algorithmic optimization and low-level systems
+<br/>
 
 ---
 
-# 📌 Current Focus
-
-- Distributed Systems
-- Systems Programming
-- AI + Healthcare
-- Scalable Backend Architectures
-- Competitive Programming
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Tanush-IIITH/Tanush-IIITH/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# ⚡ Fun Fact
-
-I enjoy building low-level systems almost as much as debugging them at 3 AM.
+<div align="center">
+  <i>"I enjoy building low-level systems almost as much as debugging them at 3 AM."</i>
+</div>
