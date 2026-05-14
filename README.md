@@ -98,10 +98,10 @@
 
 <br/>
 
-## 📈 Language Distribution
+## 📈 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanush-IIITH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanush-IIITH&layout=donut&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 <br/>
