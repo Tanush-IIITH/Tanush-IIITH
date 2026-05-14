@@ -92,7 +92,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanush-IIITH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanush-IIITH&show_icons=true&theme=tokyonight&hide_border=true" height="180em" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=Tanush-IIITH&theme=tokyonight&hide_border=true" height="180em" alt="GitHub Streak"/>
 </div>
 
