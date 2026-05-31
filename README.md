@@ -11,7 +11,7 @@
 ## 💫 About Me
 
 - 🎓 **Academics:** B.Tech in Computer Science and Engineering at IIIT Hyderabad.
-- 💻 **Problem Solving:** Competitive Programmer (Specialist on Codeforces, 3-Star on CodeChef).
+- 💻 **Problem Solving:** Competitive Programmer (Expert on Codeforces, 4-Star on CodeChef).
 - ⚙️ **Core Interests:** Low-Level Systems, Networking, and Distributed Computing.
 - 🚀 **Development:** Building scalable backend architectures and AI-driven applications.
 - 🧠 **Currently Exploring:** Operating Systems internals, RAG Pipelines, and Concurrent Architectures.
@@ -40,7 +40,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,sql" alt="Languages" />
 
 **Backend & Systems**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,linux,docker" alt="Backend and Systems" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,linux" alt="Backend and Systems" />
 
 **Databases & Cloud**<br/>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase" alt="Databases and Cloud" />
@@ -49,7 +49,7 @@
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="Machine Learning" />
 
 **Tools & Environment**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bash" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,bash" alt="Tools" />
 
 <br/>
 
@@ -78,14 +78,6 @@
 ### POSIX-Compliant Unix Shell
 * Engineered a modular Unix shell in C supporting process management, piping, parsing, and execution environments.
 * Replicated core Bash/Zsh-like functionality utilizing fundamental system calls and operating system concepts.
-
-<br/>
-
-## 🏆 Competitive Programming
-
-- 📌 **Active Contender:** Regular participant in Codeforces and CodeChef contests.
-- 📌 **Core Strengths:** Strong foundation in Data Structures, Algorithms, Graph Theory, Dynamic Programming, and Number Theory.
-- 📌 **Focus:** Highly interested in algorithmic optimization and applying CP logic to low-level systems programming.
 
 <br/>
 
